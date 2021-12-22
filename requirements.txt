@@ -1,0 +1,4 @@
+beautifulsoup4 == 4.9.3
+reauests == 2.25.1
+urliib3 == 1.26.4
+lxml == 4.6.2
